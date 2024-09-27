@@ -166,7 +166,9 @@ print(predictions_name)
 
 <H3>Output:</H3>
 
-![Screenshot 2024-09-27 153425](https://github.com/user-attachments/assets/39ba5485-8e80-43e0-b46e-c1acce3eed51)
+![n1](https://github.com/user-attachments/assets/e279d0af-47ae-4cf4-a95b-ca6082e8d53e)
+![n2](https://github.com/user-attachments/assets/31af77af-1f5a-4cbe-ad61-f6ad3573df40)
+![n3](https://github.com/user-attachments/assets/7c5fca5c-bc0d-4b30-af41-32218cdf0352)
 
 
 <H3>Result:</H3>
