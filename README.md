@@ -168,6 +168,12 @@ print(predictions_name)
 
 ![n1](https://github.com/user-attachments/assets/e279d0af-47ae-4cf4-a95b-ca6082e8d53e)
 ![n2](https://github.com/user-attachments/assets/31af77af-1f5a-4cbe-ad61-f6ad3573df40)
+
+
+
+
+
+
 ![n3](https://github.com/user-attachments/assets/7c5fca5c-bc0d-4b30-af41-32218cdf0352)
 
 
